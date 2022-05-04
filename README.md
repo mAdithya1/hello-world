@@ -1,2 +1,1 @@
-# hello-world
-My first repository on GitHub
+How to print the Hello World in Python?
